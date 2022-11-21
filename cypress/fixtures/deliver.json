@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Pedro Arruda",
+            "cpf": "00000014141",
+            "email": "pedro@gmail.com",
+            "whatsapp": "81999999999",
+            "address": {
+                "postalcode": "53030060",
+                "street": "Rua Pereira Simões",
+                "number": "1000",
+                "details": "Ap 101",
+                "district": "Bairro Novo",
+                "city_state": "Olinda/PE"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Antonio Henrique",
+            "cpf": "000000141AA",
+            "email": "antonio@gmail.com",
+            "whatsapp": "81999988888",
+            "address": {
+                "postalcode": "53030060",
+                "street": "Rua Pereira Simões",
+                "number": "1000",
+                "details": "Ap 101",
+                "district": "Bairro Novo",
+                "city_state": "Olinda/PE"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Pedro Arruda",
+            "cpf": "00000014141",
+            "email": "pedro.com",
+            "whatsapp": "81999999999",
+            "address": {
+                "postalcode": "53030060",
+                "street": "Rua Pereira Simões",
+                "number": "1000",
+                "details": "Ap 101",
+                "district": "Bairro Novo",
+                "city_state": "Olinda/PE"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+    }
+}
